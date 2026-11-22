@@ -27,13 +27,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.50394256"
-     inkscape:cx="355.19921"
-     inkscape:cy="437.54987"
-     inkscape:window-width="1470"
-     inkscape:window-height="944"
-     inkscape:window-x="446"
-     inkscape:window-y="131"
+     inkscape:zoom="1.0078851"
+     inkscape:cx="528.33402"
+     inkscape:cy="818.54567"
+     inkscape:window-width="1567"
+     inkscape:window-height="1023"
+     inkscape:window-x="213"
+     inkscape:window-y="55"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1">
     <inkscape:grid
@@ -52,7 +52,44 @@
        visible="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker1244"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="1"
+       markerHeight="8"
+       viewBox="0 0 1 8"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path1242" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Stop"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="1"
+       markerHeight="8"
+       viewBox="0 0 1 8"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path171" />
+    </marker>
+  </defs>
   <g
      id="g1449"
      inkscape:label="pinto-peanut"
@@ -387,7 +424,7 @@
   <g
      id="g1117"
      inkscape:label="legend"
-     transform="translate(64.930124,-20.043098)">
+     transform="translate(64.930124,-52.322285)">
     <rect
        style="display:inline;fill:#ececec;fill-opacity:1;stroke:#020200;stroke-width:0.970142;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-dashoffset:2.50001;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect1628"
@@ -513,4 +550,19 @@
          x="37.111328"
          y="53.229172">First Generation</tspan></text>
   </g>
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-dashoffset:9.44884;stroke-opacity:1;marker-start:url(#Stop);marker-end:url(#marker1244);paint-order:stroke markers fill"
+     d="m 61.193735,249.95689 h 10"
+     id="path476" />
+  <text
+     xml:space="preserve"
+     style="font-size:9px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-dashoffset:9.44884;stroke-opacity:1;paint-order:stroke markers fill"
+     x="47.756477"
+     y="262.60275"
+     id="text1420"><tspan
+       sodipodi:role="line"
+       id="tspan1418"
+       style="font-size:9px;stroke-width:0.7"
+       x="47.756477"
+       y="262.60275">4 meters</tspan></text>
 </svg>
