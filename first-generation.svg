@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="301.64737mm"
+   height="269.95691mm"
+   viewBox="0 0 301.64737 269.95691"
    version="1.1"
    id="svg1"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -24,20 +24,20 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.8507296"
-     inkscape:cx="700.69782"
-     inkscape:cy="746.65097"
-     inkscape:window-width="1491"
-     inkscape:window-height="946"
-     inkscape:window-x="425"
+     inkscape:zoom="0.50394256"
+     inkscape:cx="533.791"
+     inkscape:cy="748.10114"
+     inkscape:window-width="1920"
+     inkscape:window-height="1145"
+     inkscape:window-x="0"
      inkscape:window-y="55"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
        units="cm"
-       originx="0"
-       originy="0"
+       originx="64.930121"
+       originy="-20.043099"
        spacingx="10"
        spacingy="9.9999997"
        empcolor="#0099e5"
@@ -54,7 +54,7 @@
      id="g1449"
      inkscape:label="pinto-peanut"
      style="display:inline;fill:#00ffe7;fill-opacity:1;stroke:#ffff00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:4, 12;stroke-dashoffset:10;stroke-opacity:1"
-     transform="matrix(1,0,0,1.2500001,0,-30.000009)">
+     transform="matrix(1,0,0,1.2500001,94.930121,-50.043107)">
     <rect
        style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:3.99987;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:3.99987, 11.9996;stroke-dashoffset:25.9991"
        id="rect371"
@@ -116,69 +116,70 @@
      inkscape:label="mexican-sunflour-buffer-zone"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(64.930124,-20.043098)">
     <rect
        style="fill:#00ff00;stroke:none;stroke-width:9.66122"
        id="rect2"
        width="20"
        height="100.00002"
-       x="180"
+       x="210"
        y="190" />
     <rect
        style="fill:#00ff00;stroke:none;stroke-width:10.5833"
        id="rect4"
        width="20"
        height="39.999996"
-       x="140"
+       x="170"
        y="250" />
     <rect
        style="fill:#00ff00;stroke:none;stroke-width:10.5833"
        id="rect5"
        width="20"
        height="39.999996"
-       x="100"
+       x="130"
        y="250" />
     <rect
        style="fill:#00ff00;stroke:none;stroke-width:10.5833"
        id="rect6"
        width="20"
        height="19.999998"
-       x="120"
+       x="150"
        y="270" />
     <rect
        style="fill:#00ff00;stroke:none;stroke-width:9.66122"
        id="rect7"
        width="20"
        height="100.00002"
-       x="60.000004"
+       x="90"
        y="190" />
     <rect
        style="fill:#00ff00;stroke:none;stroke-width:10.5833"
        id="rect8"
        width="40"
        height="19.999998"
-       x="80"
+       x="110"
        y="210" />
     <rect
        style="fill:#00ff00;stroke:none;stroke-width:10.5833"
        id="rect9"
        width="60.000004"
        height="19.999998"
-       x="100"
+       x="130"
        y="169.99994" />
     <rect
        style="fill:#00ff00;stroke:none;stroke-width:10.5833"
        id="rect10"
        width="40"
        height="19.999998"
-       x="140"
+       x="170"
        y="209.99997" />
     <rect
        style="fill:#00ff00;stroke:none;stroke-width:9.66122"
        id="rect2-9"
        width="20"
        height="100.00002"
-       x="-80"
+       x="-110"
        y="-170"
        transform="scale(-1)" />
     <rect
@@ -186,7 +187,7 @@
        id="rect4-2"
        width="20"
        height="39.999996"
-       x="-120"
+       x="-150"
        y="-110"
        transform="scale(-1)" />
     <rect
@@ -194,7 +195,7 @@
        id="rect5-0"
        width="20"
        height="39.999996"
-       x="-160"
+       x="-190"
        y="-110"
        transform="scale(-1)" />
     <rect
@@ -202,7 +203,7 @@
        id="rect6-2"
        width="20"
        height="19.999998"
-       x="-140"
+       x="-170"
        y="-90"
        transform="scale(-1)" />
     <rect
@@ -210,7 +211,7 @@
        id="rect7-3"
        width="20"
        height="100.00002"
-       x="-200"
+       x="-230"
        y="-170"
        transform="scale(-1)" />
     <rect
@@ -218,7 +219,7 @@
        id="rect8-7"
        width="40"
        height="19.999998"
-       x="-180"
+       x="-210"
        y="-150"
        transform="scale(-1)" />
     <rect
@@ -226,15 +227,26 @@
        id="rect10-9"
        width="40"
        height="19.999998"
-       x="-120"
+       x="-150"
        y="-150.00006"
        transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:4.47199;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:4.47199, 13.416;stroke-dashoffset:11.18"
+       x="-50"
+       y="110"
+       id="text1291"><tspan
+         sodipodi:role="line"
+         id="tspan1289"
+         style="font-size:10px;fill:#000000;stroke-width:4.472"
+         x="-50"
+         y="110" /></text>
   </g>
   <g
      id="g405"
      inkscape:label="mexican-sunflour-planting-line"
      style="display:inline;fill:#00ffe7;fill-opacity:1;stroke:#ffff00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:4, 12;stroke-dashoffset:10;stroke-opacity:1"
-     transform="matrix(1,0,0,1.2500001,0,-30.000009)">
+     transform="matrix(1,0,0,1.2500001,94.930121,-50.043107)">
     <path
        style="fill:#00ffe7;fill-opacity:1;stroke:#ffff00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:4, 12;stroke-dashoffset:10;stroke-opacity:1"
        d="M 190,79.999998 V 159.99999"
@@ -250,10 +262,11 @@
        id="path401-5-2"
        transform="translate(-120)" />
     <path
-       style="fill:#00ffe7;fill-opacity:1;stroke:#ffff00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:4, 12;stroke-dashoffset:10;stroke-opacity:1"
+       style="fill:#00ffe7;fill-opacity:1;stroke:#ffff00;stroke-width:3.99988;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:3.99988, 11.9996;stroke-dashoffset:9.9997;stroke-opacity:1"
        d="M 190,79.999998 V 159.99999"
        id="path401-5-5"
-       transform="translate(-120,95.99999)" />
+       transform="translate(-120,95.99999)"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:#00ffe7;fill-opacity:1;stroke:#ffff00;stroke-width:3.99988;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:3.99988, 15.9995;stroke-dashoffset:31.999;stroke-opacity:1"
        d="M 160,87.999999 H 100"
@@ -303,7 +316,7 @@
      id="g1486-3-7-9"
      inkscape:label="pioneer-trees"
      style="display:inline;fill:#00ffe7;fill-opacity:1;stroke:#ffff00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:4, 12;stroke-dashoffset:10;stroke-opacity:1"
-     transform="matrix(1,0,0,1.2500001,100,69.999989)">
+     transform="matrix(1,0,0,1.2500001,194.93012,49.956891)">
     <ellipse
        style="fill:#020202;fill-opacity:1;stroke:none;stroke-width:2.79991;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:2.79991, 8.39972;stroke-dashoffset:18.1993"
        id="path325-6-5-3"
@@ -367,5 +380,134 @@
        rx="3.5"
        ry="2.7999997"
        transform="translate(-100,-79.999992)" />
+  </g>
+  <g
+     id="g1117"
+     inkscape:label="legend"
+     transform="translate(64.930124,-20.043098)">
+    <rect
+       style="display:inline;fill:#ececec;fill-opacity:1;stroke:#020200;stroke-width:0.970142;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-dashoffset:2.50001;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1628"
+       width="140"
+       height="159.99998"
+       x="-64.445053"
+       y="110"
+       rx="10" />
+    <rect
+       style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.99994;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:1.99994, 5.9998;stroke-dashoffset:12.9996;stroke-opacity:1"
+       id="rect965"
+       width="4"
+       height="5"
+       x="-48.651691"
+       y="221.67924" />
+    <rect
+       style="display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:4.47199;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:4.47199, 13.416;stroke-dashoffset:29.0679;stroke-opacity:1"
+       id="rect371-75"
+       width="20"
+       height="19.999998"
+       x="-56.535023"
+       y="180" />
+    <rect
+       style="display:inline;fill:#00ff00;stroke:none;stroke-width:6.11027"
+       id="rect9-3"
+       width="20.000006"
+       height="19.999998"
+       x="-56.535023"
+       y="150" />
+    <circle
+       style="display:inline;fill:#020202;fill-opacity:1;stroke:none;stroke-width:3.13039;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:3.13039, 9.39117;stroke-dashoffset:20.3474;stroke-opacity:1"
+       id="path325-6-56-6"
+       cx="-46.210026"
+       cy="256.29587"
+       r="3.5" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.47199;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:4.47199, 13.416;stroke-dashoffset:11.18"
+       x="13.464982"
+       y="160"
+       id="text1400"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:4.472"
+         x="13.464982"
+         y="160"
+         id="tspan1402">Mexican Sunflour</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:4.472"
+         x="13.464982"
+         y="172.5"
+         id="tspan1456">(buffer zone)</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:4.472"
+         x="13.464982"
+         y="185"
+         id="tspan1458" /><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:4.472"
+         x="13.464982"
+         y="197.5"
+         id="tspan1460">Pinto Peanut</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:4.472"
+         x="13.464982"
+         y="210"
+         id="tspan1462" /><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:4.472"
+         x="13.464982"
+         y="222.5"
+         id="tspan1464">Mexican Sunflour</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:4.472"
+         x="13.464982"
+         y="235"
+         id="tspan1470">(transplant here)</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:4.472"
+         x="13.464982"
+         y="247.5"
+         id="tspan1476" /><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:4.472"
+         x="13.464982"
+         y="260"
+         id="tspan1478">Pioneer Tree</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:20px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.47199;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:4.47199, 13.416;stroke-dashoffset:11.18"
+       x="-30.582752"
+       y="135.76672"
+       id="text1553"><tspan
+         sodipodi:role="line"
+         id="tspan1551"
+         style="font-size:20px;text-align:start;text-anchor:start;stroke-width:4.472"
+         x="-30.582752"
+         y="135.76672">Legend</tspan></text>
+  </g>
+  <g
+     id="g519"
+     inkscape:label="title"
+     transform="translate(64.93013,-20.043098)">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:20px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-dashoffset:9.44884;stroke-opacity:1;paint-order:stroke markers fill"
+       x="-40"
+       y="35.345833"
+       id="text2022"><tspan
+         sodipodi:role="line"
+         id="tspan2020"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="-40"
+         y="35.345833">Afforestation Polyculture</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-dashoffset:9.44884;stroke-opacity:1;paint-order:stroke markers fill"
+       x="37.111328"
+       y="53.229172"
+       id="text2026"><tspan
+         sodipodi:role="line"
+         id="tspan2024"
+         style="font-size:12px;stroke-width:1"
+         x="37.111328"
+         y="53.229172">First Generation</tspan></text>
   </g>
 </svg>
