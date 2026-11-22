@@ -2,9 +2,9 @@
 
 This repo contains designs turning a grassy field into a forest.
 
-<!--
-<img src="docs/images/life-line_2025.10.jpg?raw=true" alt="Screenshot of CAD file"></a>
+<img src="afforestation-polyculture_first-generation.jpg?raw=true" alt="Export of first-generation.svg showing pioneer trees and polycultures for the afforestation of a grassy field"></a>
 
+<!--
 # Documentation
 
 For more information (and build instructions), please see the [Eco-Libre Life-Line Documentation](https://eco-libre.github.io/life-line/)
